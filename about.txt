@@ -3,3 +3,5 @@ College: VNR Vignana Jyothi Institute of Engineering and Technology
 About Me:
 I am pursuing B.Tech in Robotics and Artificial Intelligence.
 I enjoy learning new technologies and building projects.
+
+GIT Assignment completed using Git anf GitHub.
